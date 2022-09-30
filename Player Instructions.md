@@ -12,29 +12,45 @@ Click on the panorama program and this will launch a web browser for you to view
 
 <h3>Controls</h3>
 
-Mouse
-Left click: play/pause
-Right click: fast forward 5 seconds
-Scroll: zoom in/out
-Move with left button pressed: pan/tilt
-Keyboard
-Left arrow: rewind 5 seconds
-Right arrow: fast forward 5 seconds
-Up arrow: step backward
-Down arrow: step forward
-Space: pause/resume
-Enter: adjust zoom to match native resolution (flat view only)
-Perspective Mode
-You can enable the perspective mode by clicking the perspective mode button on the bottom control bar. This mode provides a more realistitc view as if you're watching the field through a pan/tilt/zoom camera. You can also adjust a few viewpoint parameters using the sliding controls on the top right corner.
+<h5>Mouse</h5>
 
-Recording
-Our player has a built-in recorder that can be used to crop video to create highlights. This feature is similar to the Kern Burns effect in iMovie, but more powerful mostly because you can add more than 2 cropping boxes.
+◉Left click once: play/pause
 
-To enter the recording mode, click the recording mode button to show the recorder bar: recorder bar image
+◉Right click: fast forward 5 seconds
 
-resolution: set the resolution of the final clip.
-add: create a new cropping box on the current frame. You can enlarge the box by pressing and moving the right bottom corner of the box.
-add: delete the currently selects cropping box.
-add: preview the cropped clip, starting from the first cropping box to the last one
-add: save the cropped clip
-add: stop the previewing or recording.
+◉Scroll: zoom in/out
+
+◉Move with left button pressed in: pan/tilt
+
+<h5>Keyboard</h5>
+
+◉Left arrow: rewind 5 seconds
+◉Right arrow: fast forward 5 seconds
+◉Up arrow: step backward
+◉Down arrow: step forward
+◉Space: pause/resume
+◉Enter: adjust zoom to match native resolution (flat view only)
+
+
+<h5>Clipping Videos</h5>
+
+The player has a built-in recorder that can be used to "crop and pan" the video to create highlights. 
+
+To enter the recording mode, click the recording mode button to show the recorder bar
+
+![image](https://user-images.githubusercontent.com/114755950/193302834-26d4d428-4d46-4913-a0e5-bf23f8d67e5c.png)
+
+![image](https://user-images.githubusercontent.com/114755950/193302934-2cb5a8e5-d7c2-4544-a103-7add67ed619c.png)
+
+
+800x600: Change this to set the resolution of the clip by changing it in the recording bar.
+
++: Creates a new cropping box on the current frame. You can enlarge the box by pressing and moving the right bottom corner of the box.
+
+X: Deletes the currently selected cropping box.
+
+>: Preview the cropped clip, starting from the first cropping box to the last one
+
+⊛: Saves the cropped clip
+
+▣: stop the previewing or recording.
