@@ -53,7 +53,7 @@ Recording bar:
 
 X: Deletes the currently selected cropping box.
 
->: Preview the cropped clip, starting from the first cropping box to the last one
+▶: Preview the cropped clip, starting from the first cropping box to the last one
 
 ⊛: Saves the cropped clip
 
