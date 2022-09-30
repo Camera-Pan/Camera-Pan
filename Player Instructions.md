@@ -57,7 +57,7 @@ X: Deletes the currently selected cropping box.
 
 ⊛: Saves the cropped clip
 
-▣: stop the previewing or recording.
+▣: Stop the previewing or recording.
 
 <h4>Example</h4>
 The following sections created this following clip:
