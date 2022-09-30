@@ -25,10 +25,15 @@ Click on the panorama program and this will launch a web browser for you to view
 <h5>Keyboard</h5>
 
 ◉Left arrow: rewind 5 seconds
+
 ◉Right arrow: fast forward 5 seconds
+
 ◉Up arrow: step backward
+
 ◉Down arrow: step forward
+
 ◉Space: pause/resume
+
 ◉Enter: adjust zoom to match native resolution (flat view only)
 
 
@@ -36,12 +41,11 @@ Click on the panorama program and this will launch a web browser for you to view
 
 The player has a built-in recorder that can be used to "crop and pan" the video to create highlights. 
 
-To enter the recording mode, click the recording mode button to show the recorder bar
-
+To enter the recording mode, click the recording mode button in the bottom right corner to show the recorder bar:
 ![image](https://user-images.githubusercontent.com/114755950/193302834-26d4d428-4d46-4913-a0e5-bf23f8d67e5c.png)
 
+Recording bar:
 ![image](https://user-images.githubusercontent.com/114755950/193302934-2cb5a8e5-d7c2-4544-a103-7add67ed619c.png)
-
 
 800x600: Change this to set the resolution of the clip by changing it in the recording bar.
 
