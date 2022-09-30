@@ -1,15 +1,17 @@
 <h1>Panorama Player</h1>
 
-This is an video player that can play the 180° video that is downloaded after your game is processed.
+This is a video player that can play the 180° video that is downloaded after your game is processed. Currently this only works on Windows. If you require the macOS version then we will generate this on request. 
 
 
 <h3>Usage</h3>
 
-To use this player, click on the link in the email you receive after your game has been proccessed. upload the file play.html to a cloud storage service so that it can be public accessible in the browser. Then append the url to the video file that you want to open in this form:
+To use this player, click on the link in the email you receive after your game has been proccessed.
+This will download a .zip file with both your video files (The 180° Panorama video and also the "Camera-Panned" video) and also a program named "Panorama_win.exe".
 
+Click on the panorama program and this will launch a web browser for you to view the 180° degree video. In this program you can zoom in and out and also make clips of the game.
 
+<h3>Controls</h3>
 
-Controls
 Mouse
 Left click: play/pause
 Right click: fast forward 5 seconds
