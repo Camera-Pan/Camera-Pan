@@ -1,3 +1,5 @@
+<img src="https://www.camera-pan.com/images1/logo.svg" height="50em"> <strong>Camera-Pan.com</strong>
+
 ### Hi there 👋
 
 Please find your instruction documents below:
