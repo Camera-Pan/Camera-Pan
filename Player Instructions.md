@@ -54,3 +54,12 @@ X: Deletes the currently selected cropping box.
 ⊛: Saves the cropped clip
 
 ▣: stop the previewing or recording.
+
+<h4>Example</h4>
+The following sections created this following clip:
+
+![image](https://user-images.githubusercontent.com/114755950/193305807-ac590632-33fb-40ae-ba12-7c6b3e42261d.png)
+
+[hightlight.webm](https://user-images.githubusercontent.com/114755950/193305905-7e29eaa3-d10f-471b-9632-31d75b33fdff.webm)
+
+
