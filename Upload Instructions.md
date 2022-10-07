@@ -18,7 +18,7 @@ Uploading a game should be fairly straight forward.
 ![image](https://user-images.githubusercontent.com/114755950/193310773-4a2fbecc-8135-43a1-a8e0-b2e9ea2559cd.png)
 
 
-6. Click "Upload" and wait for the files to upload. <strong>Do not close the page or click submit until all files are uploaded.</strong>
+6. Click "Upload" and wait for the files to upload. Uploads are resumable so if youre connection breaks, the upload will resume from the last file you started on. <strong>Do not close the page or click submit until all files are uploaded.</strong>
 7. When that has done our AI will get to work and you will soon receive an email with the download links.
 
 Thanks! Any questions just ask via <a href="support@camera-pan.com">Email</a>
