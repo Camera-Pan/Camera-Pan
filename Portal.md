@@ -19,3 +19,7 @@ In this page you can watch, create highlights and comment on the game.
 ![portal](https://user-images.githubusercontent.com/114755950/204770830-3ccfbd8d-7703-472e-aa09-c0f4ef72eaf2.png)
 
 When sharing games with users, one email address at a time can be entered. The user will receive an email informing them they have been provided access.
+
+You can download the video on a PC by clicking the three dots in the corner of the video and then by clicking "Download":
+
+![image](https://user-images.githubusercontent.com/114755950/204772229-e51f22a3-b40e-4c39-a687-5d088cee56f0.png)
